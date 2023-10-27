@@ -1,3 +1,9 @@
+# My Reflection
+
+The current date and time is of when the code is run on the server. Because by default all components in Next.js are React Server Components, incl. layout.js, page.js etc.
+
+The benefits of this over client side rendering is it's faster (though not obvious in this case) and user won't have to stare at a blank screen when waiting for the JavaScript to be downloaded.
+
 # Next 13 template
 
 This is a _super minimal_ starter for Next 13's App Router.
